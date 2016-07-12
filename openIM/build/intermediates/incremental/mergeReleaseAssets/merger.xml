@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\Project\TestLib\openIM\src\main\assets"><file name="litepal.xml" path="G:\Project\TestLib\openIM\src\main\assets\litepal.xml"/></source></dataSet><dataSet config="release"><source path="G:\Project\TestLib\openIM\src\release\assets"/></dataSet></merger>

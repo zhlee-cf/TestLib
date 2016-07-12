@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_chat_keyboard.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_chat_keyboard.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_sex.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_sex.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_save.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_save.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\com_ttshrk_view_scroll_picker_bar.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\com_ttshrk_view_scroll_picker_bar.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_setting.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_setting.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatto_voice_playing.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_nick.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_nick.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_11.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_11.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp5.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp5.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\login_user.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\login_user.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp6.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp6.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_04.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_04.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_chat_selected.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_chat_selected.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp1.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp1.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_user.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_user.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_08.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_08.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\iv_chat_from.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\iv_chat_from.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\mm_title_functionframe_line.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\mm_title_functionframe_line.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\pop_camera.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\pop_camera.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\login_unlock.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\login_unlock.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\options_location.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\options_location.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_3.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_3.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_minus.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_minus.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\pop_save.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\pop_save.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp7.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp7.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_03.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_03.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\login_app.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\login_app.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_client.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_client.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\options_camera.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\options_camera.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_7.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_7.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_05.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_05.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_5.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_5.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_10.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_10.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\voice_rcd_cancel_bg_focused.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\voice_rcd_cancel_bg_focused.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp2.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp2.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp4.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp4.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\a_1.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\a_1.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_more.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_more.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_flush.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_flush.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\iv_head_to.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\iv_head_to.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_self_selected.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_self_selected.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_phone.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_phone.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_friend_selected.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_friend_selected.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\voice_to_short.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\voice_to_short.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_top_back.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_top_back.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_back_right.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_back_right.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\voice_rcd_cancel_bg.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\voice_rcd_cancel_bg.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\com_ttshrk_view_scroll_picker_background.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\com_ttshrk_view_scroll_picker_background.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_01.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_01.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\search_clear_pressed.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\options_picture.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\options_picture.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_friend_nor.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_friend_nor.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_6.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_6.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_06.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_06.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_chat_nor.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_chat_nor.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_more_2.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_more_2.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\login_lock.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\login_lock.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_chat_voice.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_chat_voice.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_clean.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_clean.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_unlock.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_unlock.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_camera.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_camera.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_birth.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_birth.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatfrom_voice_playing_f1.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\amp3.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\amp3.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatfrom_voice_playing_f2.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_8.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_8.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_4.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_4.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_1.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_1.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatfrom_voice_playing.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\del_icon_normal.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\del_icon_normal.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\title_add.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\title_add.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_alert.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\icon_alert.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\pop_pic.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\pop_pic.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_12.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_12.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\search_clear_normal.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\qrcode.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\qrcode.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\rcd_cancel_icon.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\rcd_cancel_icon.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\progress_2.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\progress_2.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_07.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_07.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\tab_self_nor.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\tab_self_nor.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_02.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_02.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\voice_rcd_hint.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\voice_rcd_hint.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\info_desc.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\info_desc.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\chatfrom_voice_playing_f3.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\loading_09.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\loading_09.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\xlistview_arrow.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-hdpi\\xlistview_arrow.png"
+    }
+]

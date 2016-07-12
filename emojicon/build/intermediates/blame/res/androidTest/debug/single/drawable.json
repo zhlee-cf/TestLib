@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_emoji_backspace_front_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_emoji_backspace_front_button.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_composer_attach_location_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_composer_attach_location_button.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_composer_attach_camera_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_composer_attach_camera_button.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_composer_popup_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_composer_popup_button.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_emoji_more_front_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_emoji_more_front_button.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_emoji_tab_background.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_emoji_tab_background.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_emoji_tab_dark_background.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_emoji_tab_dark_background.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_composer_popup_button_active.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_composer_popup_button_active.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orca_composer_attach_photo_button.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\drawable\\orca_composer_attach_photo_button.xml"
+    }
+]

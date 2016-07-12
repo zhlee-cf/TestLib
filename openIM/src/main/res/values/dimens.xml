@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体的5种大小，全局使用这5种字体大小-->
+    <dimen name="font_size_xsmall">13dp</dimen>
+    <dimen name="font_size_small">15dp</dimen>
+    <dimen name="font_size_large">19dp</dimen>
+
+    <!--控件之间的间隔-->
+
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_250dp">250dp</dimen>
+    <dimen name="dimen_43dp">43dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_13dp">13dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_6dp">6dp</dimen>
+</resources>

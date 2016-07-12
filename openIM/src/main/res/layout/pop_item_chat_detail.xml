@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pop_chat_bg"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="0dp" >
+
+    <TextView
+        android:id="@+id/pop_copy_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:paddingBottom="6dp"
+        android:text="复制"
+        android:textColor="@android:color/white" />
+
+    <View
+        android:layout_width="4dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="fill_parent" />
+
+    <TextView
+        android:id="@+id/pop_delete_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:paddingBottom="6dp"
+        android:text="删除"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

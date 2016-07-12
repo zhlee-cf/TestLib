@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!-- <com.qq.view.TitleBarView 
+        android:id="@+id/title_bar"
+        android:layout_height="60dp"
+        android:layout_width="match_parent"/> -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:gravity="center_horizontal"
+        android:text="@string/tv_im"
+        android:textColor="@color/gray_font"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/tv_im_number"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:layout_margin="20dp"
+        android:background="@drawable/btn_login_selector"
+        android:text="@string/register_success"
+        android:textColor="@color/whites"
+        android:textSize="16sp" />
+</LinearLayout>

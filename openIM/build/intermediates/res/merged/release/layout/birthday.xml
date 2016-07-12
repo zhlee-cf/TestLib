@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bithday_layout"
+        android:background="#ff424542"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:text="日期"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/mm_title_btn_right"
+            android:text="取消"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:background="@drawable/mm_title_act_btn"
+            android:text="完成"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bithday_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="220dip"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220dip"
+            android:layout_marginLeft="15dip"
+            android:layout_marginRight="15dip"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <com.open.im.wheel.WheelView
+                android:id="@+id/year"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1" />
+
+            <com.open.im.wheel.WheelView
+                android:id="@+id/month"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1" />
+
+            <com.open.im.wheel.WheelView
+                android:id="@+id/day"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220.0dip"
+            android:layout_gravity="center"
+            android:background="@mipmap/com_ttshrk_view_scroll_picker_background" >
+        </FrameLayout>
+    </RelativeLayout>
+
+</LinearLayout>

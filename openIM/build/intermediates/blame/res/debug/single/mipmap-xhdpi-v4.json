@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\chat_emo_press.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xhdpi\\chat_emo_press.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\chat_emo_normal.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xhdpi\\chat_emo_normal.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\chat_add_press.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xhdpi\\chat_add_press.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\chat_add_normal.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xhdpi\\chat_add_normal.png"
+    }
+]

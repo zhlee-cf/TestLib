@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical"
+    android:padding="10dip">
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="09-25 12:00"
+        android:textColor="@color/gray"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_receive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_date"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <com.open.im.view.CircularImage
+            android:id="@+id/chatfrom_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/iv_chat_from" />
+
+        <com.rockerhieu.emojicon.EmojiconTextView
+            android:id="@+id/tv_receive_body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatfrom_bg"
+            android:gravity="bottom"
+            android:maxWidth="230dp"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/iv_receive_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatfrom_bg"
+            android:gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_receive_audio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatfrom_bg"
+            android:gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@mipmap/chatfrom_voice_playing"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_receive_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatfrom_bg"
+            android:gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_launcher"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent">
+
+        <com.open.im.view.CircularImage
+            android:id="@+id/chatto_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/iv_head_to" />
+
+        <LinearLayout
+            android:id="@+id/rl_send_body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/chatto_icon">
+
+            <com.rockerhieu.emojicon.EmojiconTextView
+                android:id="@+id/tv_send_body"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatto_bg"
+                android:gravity="center_vertical"
+                android:maxWidth="230dp"
+                android:text="jlaskjdlkfdgdgjsasadfsafsadfsadfsadfl;dgkjas"
+                android:textColor="@color/gray"
+                android:textSize="14sp" />
+            <!-- android:scaleType="fitXY" 气泡包裹图片 但是会产生形变 -->
+
+            <ImageView
+                android:id="@+id/iv_send_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatto_bg"
+                android:gravity="center_vertical"
+                android:scaleType="fitXY"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_send_audio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatto_bg"
+                android:gravity="center_vertical"
+                android:scaleType="fitXY"
+                android:src="@mipmap/chatto_voice_playing"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_send_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/chatto_bg"
+                android:gravity="center_vertical"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_launcher"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_receipt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/rl_send_body"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/rl_send_body"
+            android:text="发送失败"
+            android:textSize="@dimen/dimen_10dp" />
+
+        <ImageView
+            android:id="@+id/iv_receipt"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@id/rl_send_body"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@id/rl_send_body"
+            android:background="@drawable/title_loading"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+</LinearLayout>

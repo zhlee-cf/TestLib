@@ -1,0 +1,136 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+
+    <style name="MainTheme" parent="android:Theme.Light">
+        <!--将Activity的Theme设置成透明-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="SplashTheme" parent="android:Theme.Light">
+        <!--将Activity的Theme设置个背景-->
+        <item name="android:windowBackground">@mipmap/login_app</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- 底部导航栏 相对布局样式  底部导航  一个线性 + 3个相对 每个相对 里面包一个imageview -->
+    <style name="ButtomBar">
+        <item name="android:background">#F8F8F8</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">3dp</item>
+    </style>
+
+    <!-- 底部导航栏 图片布局样式 -->
+    <style name="ButtomBarImgBtn">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">50dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+
+    <!-- 通讯录listview条目的样式-->
+    <style name="MMListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!--<style name="MMFriendListItem">-->
+    <!--<item name="android:gravity">center_vertical</item>-->
+    <!--<item name="android:orientation">horizontal</item>-->
+    <!--<item name="android:paddingLeft">16.0dip</item>-->
+    <!--<item name="android:paddingTop">6.0dip</item>-->
+    <!--<item name="android:paddingRight">6.0dip</item>-->
+    <!--<item name="android:paddingBottom">6.0dip</item>-->
+    <!--<item name="android:layout_width">fill_parent</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--</style>-->
+
+    <!-- 滑动通讯录时 会显示的当前最上面的那个好友的收字母的那个TextView的样式-->
+    <style name="MMListCatalog">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">#ffced2d7</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!--<style name="ChoicePreferenceButton">-->
+    <!--<item name="android:textColor">#ff595c61</item>-->
+    <!--<item name="android:gravity">center</item>-->
+    <!--<item name="android:layout_width">wrap_content</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--<item name="android:button">@null</item>-->
+    <!--<item name="android:minWidth">60.0dip</item>-->
+    <!--</style>-->
+
+    <!-- 通讯录列表 好友名称样式-->
+    <style name="MMFontTitleInList">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <!--<style name="MMFontTipInList">-->
+    <!--<item name="android:textSize">14.0dip</item>-->
+    <!--<item name="android:textColor">#ffffffff</item>-->
+    <!--<item name="android:ellipsize">end</item>-->
+    <!--<item name="android:gravity">center_vertical</item>-->
+    <!--<item name="android:layout_width">wrap_content</item>-->
+    <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--<item name="android:singleLine">true</item>-->
+    <!--</style>-->
+
+    <!-- 加载大图的dialog的样式-->
+    <style name="Lam.Dialog.FullScreen" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+    <!-- 个人信息字体样式 -->
+    <style name="userinfo_text_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#585858</item>
+    </style>
+
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <!--自定义加载中dialog-->
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

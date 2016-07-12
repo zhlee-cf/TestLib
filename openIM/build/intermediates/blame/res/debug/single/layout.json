@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\voice_rcd_hint_window.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\voice_rcd_hint_window.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\pop_item_avatar.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\pop_item_avatar.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\pager_im_constact.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\pager_im_constact.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\pager_im_self.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\pager_im_self.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_userinfo.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_register_userinfo.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_userinfo.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_userinfo.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usersex_update.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_usersex_update.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_contact.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_contact.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo_update.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_userinfo_update.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_stranger.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_stranger.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_result.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_register_result.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_chat_detail.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_chat_detail.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relogin.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_relogin.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\birthday.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\birthday.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\emojicons.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\exploded-aar\\TestLib\\emojicon\\unspecified\\res\\layout\\emojicons.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\pop_item_chat_detail.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\pop_item_chat_detail.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_qrcode.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\dialog_qrcode.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_news.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_news.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_client.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_client.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_grid.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\exploded-aar\\TestLib\\emojicon\\unspecified\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_image.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_show_image.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_baidumap_item.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\adapter_baidumap_item.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_msg.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_sub_msg.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_position.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_position.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_item.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\exploded-aar\\TestLib\\emojicon\\unspecified\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_pwd.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_update_pwd.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_sub.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\list_item_sub.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avatar.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\activity_avatar.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\debug\\layout\\pager_im_news.xml",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\layout\\pager_im_news.xml"
+    }
+]

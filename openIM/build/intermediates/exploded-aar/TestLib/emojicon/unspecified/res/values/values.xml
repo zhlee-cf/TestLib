@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/></declare-styleable>
+    <string name="app_name">Emojicon</string>
+</resources>

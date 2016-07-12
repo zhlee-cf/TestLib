@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    <!--android:background="@mipmap/item_point_bg"-->
+
+    <RelativeLayout
+        android:id="@+id/item_left"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/contact_bg_selector"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp" >
+        <!--android:layout_marginTop="5dp"-->
+
+        <com.open.im.view.CircularImage
+            android:id="@+id/iv_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="5dp"
+            android:paddingTop="5dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_icon"
+            android:paddingTop="5dp"
+            android:text="标题"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <com.rockerhieu.emojicon.EmojiconTextView
+            android:id="@+id/tv_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_icon"
+            android:layout_alignLeft="@id/tv_title"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="消息内容消息内容消息内容消息内容消息内容消息内容消息内容消息内容消息内容消息内容消息内容消息内容"
+            android:textColor="@color/grey" />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/tv_title"
+            android:textColor="@color/grey" />
+
+        <TextView
+            android:id="@+id/tv_unread_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/tv_title"
+            android:gravity="center"
+            android:background="@drawable/unread_msg_bg"
+            android:text="2"
+            android:textColor="@android:color/white"
+            android:textSize="10.0dip"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/item_right"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/right_bg" >
+
+        <TextView
+            android:id="@+id/item_right_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:drawableLeft="@mipmap/del_icon_normal"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="@color/blur_bg" />
+    </RelativeLayout>
+
+</LinearLayout>

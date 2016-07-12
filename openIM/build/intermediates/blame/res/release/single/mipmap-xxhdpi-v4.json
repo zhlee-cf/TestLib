@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\icon_arrow_bg.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xxhdpi\\icon_arrow_bg.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\icon_yourself_lication.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xxhdpi\\icon_yourself_lication.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\icon_local.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xxhdpi\\icon_local.png"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\openIM\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\icon_checked.png",
+        "source": "G:\\Project\\TestLib\\openIM\\src\\main\\res\\mipmap-xxhdpi\\icon_checked.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicons.xml",
+        "source": "G:\\Project\\TestLib\\emojicon\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicons.xml"
+    }
+]

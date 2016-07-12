@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_blue">#770000ff</color> 
+    <color name="divide_line">#CBCED2</color>
+    <color name="whites">#ffffff</color>
+    <color name="gray_font">#818181</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#AFAFAF</color>
+    <color name="item_back_press">#10000000</color>
+    
+    <color name="blur_bg">#FFFAF0</color>
+    <color name="grey">#808080</color>
+    <color name="right_bg">#696969</color>
+    <color name="red">#ff0000</color>
+    <color name="color_org">#FF5722</color>
+    <color name="yellow">#E0E0E0</color>
+    <color name="info_bg">#E3E3E3</color>
+    <color name="contact_pressed">#86B800</color>
+    <color name="avatar_bg">#303030</color>
+</resources>

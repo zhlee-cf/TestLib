@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_log"
+        style="@style/MMListCatalog"
+        android:layout_height="wrap_content"
+        android:paddingRight="4dp" />
+
+    <RelativeLayout
+        style="@style/MMListItem"
+        android:layout_height="wrap_content"
+        android:background="@drawable/contact_bg_selector">
+
+        <com.open.im.view.CircularImage
+            android:id="@+id/iv_avatar"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="@dimen/dimen_10dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_nick"
+            style="@style/MMFontTitleInList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:singleLine="true"
+            android:textSize="16sp"
+            android:text="好友名称" />
+
+        <TextView
+            android:id="@+id/tv_desc"
+            style="@style/MMFontTitleInList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/iv_avatar"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:singleLine="true"
+            android:textSize="12sp"
+            android:text="个人描述" />
+    </RelativeLayout>
+</LinearLayout>
